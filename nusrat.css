@@ -1,0 +1,10 @@
+div {
+    border: 1px solid #302c2c;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ce2b2b;
+    border-radius: 10px;
+    border: 2px dotted rgb(218, 21, 67);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
